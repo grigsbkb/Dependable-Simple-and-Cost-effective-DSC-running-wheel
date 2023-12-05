@@ -1,0 +1,2 @@
+# Dependable-Simple-and-Cost-effective-DSC-running-wheel
+DSC-wheel code (programmed in Arduino/C++ language using Arduino Integrated Development Environment) for "Development and Implementation of a Dependable, Simple, and Cost-effective (DSC), Open-source Running Wheel in High Drinking in the Dark and Heterogeneous Stock/Northport mice" published in "The Role, and Underlying Neural Mechanisms of, Physical Activity in Treating Substance and Alcohol Use Disorders" special issue of "Frontiers in Behavorial Neuroscience"
